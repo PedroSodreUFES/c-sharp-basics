@@ -1,0 +1,14 @@
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/bin/Debug/net8.0/02-outros-tipos
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/bin/Debug/net8.0/02-outros-tipos.deps.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/bin/Debug/net8.0/02-outros-tipos.runtimeconfig.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/bin/Debug/net8.0/02-outros-tipos.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/bin/Debug/net8.0/02-outros-tipos.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/refint/02-outros-tipos.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/02-outros-tipos.genruntimeconfig.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/02-outros-tipos/obj/Debug/net8.0/ref/02-outros-tipos.dll
