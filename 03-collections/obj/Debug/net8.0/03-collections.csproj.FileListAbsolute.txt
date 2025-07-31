@@ -1,0 +1,15 @@
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/bin/Debug/net8.0/03-collections
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/bin/Debug/net8.0/03-collections.deps.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/bin/Debug/net8.0/03-collections.runtimeconfig.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/bin/Debug/net8.0/03-collections.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/bin/Debug/net8.0/03-collections.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.sourcelink.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/refint/03-collections.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/03-collections.genruntimeconfig.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/03-collections/obj/Debug/net8.0/ref/03-collections.dll
