@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Funcoes/Funcoes.csproj": {}
+    "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/04-funcoes/Funcoes.csproj": {}
   },
   "projects": {
-    "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Funcoes/Funcoes.csproj": {
+    "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/04-funcoes/Funcoes.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Funcoes/Funcoes.csproj",
+        "projectUniqueName": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/04-funcoes/Funcoes.csproj",
         "projectName": "Funcoes",
-        "projectPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Funcoes/Funcoes.csproj",
+        "projectPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/04-funcoes/Funcoes.csproj",
         "packagesPath": "/home/pedro/.nuget/packages/",
-        "outputPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Funcoes/obj/",
+        "outputPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/04-funcoes/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/home/pedro/.nuget/NuGet/NuGet.Config"
