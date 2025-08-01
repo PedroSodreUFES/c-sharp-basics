@@ -1,0 +1,15 @@
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/bin/Debug/net8.0/06-loops
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/bin/Debug/net8.0/06-loops.deps.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/bin/Debug/net8.0/06-loops.runtimeconfig.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/bin/Debug/net8.0/06-loops.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/bin/Debug/net8.0/06-loops.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.sourcelink.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/refint/06-loops.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/06-loops.genruntimeconfig.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/06-loops/obj/Debug/net8.0/ref/06-loops.dll
