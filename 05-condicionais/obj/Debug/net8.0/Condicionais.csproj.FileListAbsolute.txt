@@ -1,0 +1,15 @@
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/bin/Debug/net8.0/Condicionais
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/bin/Debug/net8.0/Condicionais.deps.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/bin/Debug/net8.0/Condicionais.runtimeconfig.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/bin/Debug/net8.0/Condicionais.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/bin/Debug/net8.0/Condicionais.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.sourcelink.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/refint/Condicionais.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/Condicionais.genruntimeconfig.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/Debug/net8.0/ref/Condicionais.dll

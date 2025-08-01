@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "4qgm4R63zUV5ssNxVVS0uWIcXkSIUDu9fdn+sVp2y0rr23O40HPXXCKJytY/fm3VcMCVxKdQXc6MCJXkS09d5Q==",
+  "dgSpecHash": "064IrKPH8WsdSzFlsrKJlyXW/yfAZltlAX3FOR6fU076zdZkENrm/wr88J9dZOeQXPQaO6wLopeOOBFdUPHy1A==",
   "success": true,
-  "projectFilePath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Condicionais/Condicionais.csproj",
+  "projectFilePath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/Condicionais.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

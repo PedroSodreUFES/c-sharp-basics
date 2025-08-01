@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Condicionais/Condicionais.csproj",
+      "projectUniqueName": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/Condicionais.csproj",
       "projectName": "Condicionais",
-      "projectPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Condicionais/Condicionais.csproj",
+      "projectPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/Condicionais.csproj",
       "packagesPath": "/home/pedro/.nuget/packages/",
-      "outputPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/Condicionais/obj/",
+      "outputPath": "/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/05-condicionais/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/pedro/.nuget/NuGet/NuGet.Config"
