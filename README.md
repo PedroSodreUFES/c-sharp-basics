@@ -5,7 +5,7 @@
 + Classes
 + Funções
 + Static
-+ Private, Internal e Pulic
++ Private, Internal e Public
 + Loops
 + Condicionais
 + Jump(continue, break, return)
