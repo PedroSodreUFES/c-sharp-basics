@@ -1,0 +1,15 @@
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/bin/Debug/net8.0/test-03
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/bin/Debug/net8.0/test-03.deps.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/bin/Debug/net8.0/test-03.runtimeconfig.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/bin/Debug/net8.0/test-03.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/bin/Debug/net8.0/test-03.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.GeneratedMSBuildEditorConfig.editorconfig
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.AssemblyInfoInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.AssemblyInfo.cs
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.csproj.CoreCompileInputs.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.sourcelink.json
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/refint/test-03.dll
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.pdb
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/test-03.genruntimeconfig.cache
+/home/pedro/trabalhos/rocketseat/c#/01-fundamentos/desafios/test-03/obj/Debug/net8.0/ref/test-03.dll
